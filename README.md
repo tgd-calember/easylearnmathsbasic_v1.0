@@ -7,13 +7,21 @@ Esta funciones tiene como objetivo aprende operaciones aritmética básicas y f�
 Funciones
 
 Tareas	File	Descripción
+
 •	Hacer el menu	main.ipynb	Principal de menú
+
 •	Suma +	f_suma.ipynb	Función suma dos numero enteros
+
 •	Resta –	f_resta.ipynb	Función resta dos numero enteros
+
 •	Multiplicación *	f_multiplica.ipynb	Función multiplica dos numero enteros
+
 •	División /	f_divnormal.ipynb	Función división normal entre dos numero enteros
+
 •	División entera //	f_ diventera.ipynb	Función división entera entre dos numero enteros
+
 •	Módulo (resto) %	f_modulo.ipynb	Función modulo entera entre dos numero enteros
+
 •	Potenciación **	f_potencia.ipynb	Función potencia entera entre dos numero enteros
 
 Instalación
